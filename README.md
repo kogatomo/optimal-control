@@ -20,3 +20,4 @@
 * [Conjugate direction methods for optimal control](https://ieeexplore.ieee.org/abstract/document/1099440) (Lasdon, 1969)
 * [合成リカッチ変換法による非線形最適制御問題の数値計算法の研究](https://core.ac.uk/download/pdf/148776879.pdf) (蔡, 1995)
 * [A Barrier Function Method for the Optimization of Trajectory Functionals with Constraints](http://dx.doi.org/10.1109/cdc.2006.377331) (Hauser, John, and Saccon., 2006)
+* [A Survey of Numerical Methods for Optimal Control](https://www.researchgate.net/publication/268042868_A_Survey_of_Numerical_Methods_for_Optimal_Control) (Anil V. Rao, 2010)
